@@ -245,3 +245,6 @@ Gives you a test root / endpoint.
 uvicorn app.main:app --reload
 
 python terminal.py
+
+python -m scripts.fetch_public_ads_and_evaluate
+
